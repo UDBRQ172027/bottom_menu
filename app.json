@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "bottom_menu",
+    "slug": "bottom_menu",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "bottom_menu"
+}
